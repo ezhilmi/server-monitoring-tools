@@ -3,12 +3,13 @@ Monitoring tools to gain CPU, GPU and RAM include its usage, temp
 
 ## Change the total seconds 
 For sar
-sar -u [interval] [total seconds] 
+- sar -u [interval] [total seconds] 
 
 For nvidia-smi
-timeout [total seconds] nvidia-smi
+- timeout [total seconds] nvidia-smi
 
-For powerjoular, nmanually interrupt the script
+For powerjoular
+- manually interrupt the script
 
 ##Benchmark tools used
 - AI-Benchmark
