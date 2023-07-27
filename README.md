@@ -11,10 +11,11 @@ For nvidia-smi
 For powerjoular
 - manually interrupt the script
 
-##Benchmark tools used
+## Benchmark tools used
 - AI-Benchmark
 - GPU Burn
 - Stress-NG
+- 
 ## Data clean
 For cleanRowCSV.py 
 - use to clean the data that exported from cpu_temp.sh
