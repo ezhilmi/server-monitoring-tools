@@ -10,6 +10,10 @@ timeout [total seconds] nvidia-smi
 
 For powerjoular, nmanually interrupt the script
 
+##Benchmark tools used
+- AI-Benchmark
+- GPU Burn
+- Stress-NG
 ## Data clean
 For cleanRowCSV.py 
 - use to clean the data that exported from cpu_temp.sh
