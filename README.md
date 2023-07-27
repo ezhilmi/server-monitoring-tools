@@ -1,4 +1,4 @@
-# server-monitoring-tools
+# Server Monitoring Tools
 Monitoring tools to gain CPU, GPU and RAM include its usage, temp
 
 ## Change the total seconds 
